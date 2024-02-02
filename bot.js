@@ -29,4 +29,4 @@ client.on('messageCreate', (message) => {
     }
 });
 
-client.login('MTIwMjk0NjI1MDc0ODQ2OTI5OQ.GHDlMA.dhd8h8FsQO4G8ZgnDnGMLNeRXIeijt3Jsmn5Jg');
+client.login('You cold be hero');
